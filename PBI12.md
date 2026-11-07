@@ -3,3 +3,4 @@
 - Thu thu chon phieu muon va bam Tra sach
 - Ban sao sach chuyen ve tinh trang Con sach
 - Tra tre han thi hien canh bao
+- Tra sach thanh cong thi dong phieu muon tuong ung
