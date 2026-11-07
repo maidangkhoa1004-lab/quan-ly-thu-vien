@@ -3,3 +3,4 @@
 - Thu thu ghi nhan hinh thuc boi thuong (tien hoac sach thay the)
 - Khi da boi thuong xong thi mo khoa lai the
 - Luu lich su boi thuong cua tung the
+- Mo khoa thanh cong thi the chuyen ve trang thai Hoat dong
