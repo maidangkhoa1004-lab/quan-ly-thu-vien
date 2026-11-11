@@ -3,3 +3,4 @@
 - Ngoai sach, ho tro them tap chi, luan van, tai lieu dien tu
 - Moi loai co quy dinh muon rieng (so luong, so ngay)
 - Them loai tai lieu moi khong anh huong du lieu cu
+- Thu thu chon loai tai lieu khi them moi hoac tim kiem
